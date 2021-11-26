@@ -25,7 +25,7 @@ const upload = multer({
 ## 🖥 2. 이미지 resize을 할 때, 이미지의 width를 400으로 두었고, rotate을 했다.
 
 - **속도는 2.11s가 측정되었다.**
-<img width="420" alt="width400" src="https://user-images.githubusercontent.com/59908525/143442132-fc8befba-f313-452f-ba77-4a90d93c386e.PNG"  width="200" height="400"/>
+<img width="420" alt="width400" src="https://user-images.githubusercontent.com/59908525/143442132-fc8befba-f313-452f-ba77-4a90d93c386e.PNG"  width="500" height="500"/>
 
 
 ```
