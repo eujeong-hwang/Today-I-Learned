@@ -1,11 +1,9 @@
-# 📝 2021-11-25
+# 📝 2021-11-24
 
 - S3 image resizing
 
 
-## 🖥 S3 image resizing
-
-1. resize 하기 전
+## 🖥 1. S3 image resizing 전
 
 - My code
 
@@ -24,9 +22,9 @@ const upload = multer({
     }),
   });
 ```
+<br>
 
-
-2. 처음에 resize을 할 때, 이미지의 width를 400으로 두었고, rotate을 했다.
+## 🖥 2. 이미지 resize을 할 때, 이미지의 width를 400으로 두었고, rotate을 했다.
 
 - 속도는 2.11s가 측정되었다. 
 <img width="420" alt="width400" src="https://user-images.githubusercontent.com/59908525/143442132-fc8befba-f313-452f-ba77-4a90d93c386e.PNG">
@@ -73,7 +71,9 @@ const upload = multer({
 });
 ```
 
-3. 아직 이미지 업로드 속도가 느려서, 이미지의 width를 300, height를 300으로 설정하였고, rotate을 했다.
+<br>
+
+## 🖥 3. 아직 이미지 업로드 속도가 느려서, 이미지의 width를 300, height를 300으로 설정하였고, rotate을 했다.
 
 - 같은 사진으로 속도 측정 결과, 1832.63ms, 약 1.8초가 걸렸다.
 <img width="417" alt="300, 300" src="https://user-images.githubusercontent.com/59908525/143442413-3c845307-3598-4c4f-8e2a-5611923758e6.PNG">
@@ -119,8 +119,9 @@ const upload = multer({
   }),
 });
 ``` 
+<br>
 
-4. width:parseInt(size[0]),height:parseInt(size[1]).rotate()으로 사진이 업로드 될 때, resize되도록 설정하였다. 
+## 🖥 4. width:parseInt(size[0]),height:parseInt(size[1]).rotate()으로 사진이 업로드 될 때, resize되도록 설정하였다. 
 사실 아직 이 코드의 원리를 잘 이해하지 못해서 더 공부를 한 다음에, TIL에 다시 작성해야겠다. 
 
 - 같은 사진으로 측정 결과, 총 823.7ms가 나왔고, 약 0.8초가 나왔다.
