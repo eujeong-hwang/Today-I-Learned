@@ -1,7 +1,6 @@
-# 📝 2021-11-24
+# 📝 2021-11-24: S3 image resizing
 
-- S3 image resizing
-
+<br>
 
 ## 🖥 1. S3 image resizing 전
 
