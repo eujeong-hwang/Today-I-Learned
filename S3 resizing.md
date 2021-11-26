@@ -5,8 +5,6 @@
 
 ## 🖥 1. S3 image resizing 전
 
-- My code
-
 ```
 const upload = multer({
     storage: multerS3({
@@ -26,10 +24,9 @@ const upload = multer({
 
 ## 🖥 2. 이미지 resize을 할 때, 이미지의 width를 400으로 두었고, rotate을 했다.
 
-- 속도는 2.11s가 측정되었다. 
+- **속도는 2.11s가 측정되었다.**
 <img width="420" alt="width400" src="https://user-images.githubusercontent.com/59908525/143442132-fc8befba-f313-452f-ba77-4a90d93c386e.PNG">
 
-- My code
 
 ```
 const upload = multer({
@@ -78,8 +75,6 @@ const upload = multer({
 - 같은 사진으로 속도 측정 결과, 1832.63ms, 약 1.8초가 걸렸다.
 <img width="417" alt="300, 300" src="https://user-images.githubusercontent.com/59908525/143442413-3c845307-3598-4c4f-8e2a-5611923758e6.PNG">
 
-
-- My code
 ```
 const upload = multer({
   storage: multerS3({
@@ -127,7 +122,6 @@ const upload = multer({
 - 같은 사진으로 측정 결과, 총 823.7ms가 나왔고, 약 0.8초가 나왔다.
 <img width="414" alt="size0size1" src="https://user-images.githubusercontent.com/59908525/143442421-49badc53-64d4-4b8e-b002-2a7af6e60285.PNG">
 
-- My code
 
 ```
 const upload = multer({
