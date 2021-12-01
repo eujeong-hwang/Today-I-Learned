@@ -12,6 +12,9 @@
 
 <br>
 
-## 🖥 Nginx: 413 – Request Entity Too Large Error and Solution
-
+## 🖥 Solution
+  
+  Nginx 설정을 바꾸었다.
+  
+  1. sudo ~~~에 들어간다.
 
