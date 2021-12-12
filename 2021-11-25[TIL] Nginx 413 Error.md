@@ -25,7 +25,7 @@
   $ sudo vim /etc/nginx/nginx.conf
 
   ```
-<br>
+
   2. nginx.conf의 http{} 내용 부분에 사진의 max 값을 지정해준다. 이 경우에는 100Mbyte로 설정을 해주었다.
   ```
   http{
@@ -41,13 +41,13 @@
   ```
 
 ![nginx_reverse_proxy](https://user-images.githubusercontent.com/59908525/145716359-9220f78d-9500-4f30-bb5b-234f66cad909.jpg)
-<br>
+
 
   3. 그 후 저장하고 나온 후, nginx를 재시작합니다
   ```
   sudo nginx -s reload
   ``` 
-<br>
+
   4. 아니면 서비스를 재시작한다.
   ``` 
   sudo nginx restart
