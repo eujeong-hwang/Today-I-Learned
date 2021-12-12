@@ -1,6 +1,6 @@
-# 📝 Port 3000 is already in use
+# 📝 MySQL connection error and Solution
 
-- "Port 3000 is already in use" Error and Solution
+- MySQL connection error and Solution
 
 <br>
 

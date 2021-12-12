@@ -12,13 +12,13 @@
 
 <br>
 
-## 🖥 Nginx: 413 – Request Entity Too Large Error and Solution
+## 📌 Nginx: 413 – Request Entity Too Large Error and Solution
 
   먼저 nginx의 파일 업로드 크기를 정해야 한다. 설정 하지 않은 경우 1M가 넘을 경우에 에러가 발생할 수 있다고 한다. 
   
 <br>
 
-## 🖥 Solution
+## ⛏️ Solution
 
   1. 우선 파일 업로드 사이즈를 설정하기 위해서는 먼저 nginx의 설정 파일을 수정했다. nginx.conf 파일의 경로를 찾는다
   ```
