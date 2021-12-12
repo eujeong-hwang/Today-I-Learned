@@ -1,7 +1,6 @@
 # 📝 Port 3000 is already in use
 
 - "Port 3000 is already in use" Error and Solution
-
 <br>
 
 ## 📌  "Port 3000 is already in use" Error and Solution
