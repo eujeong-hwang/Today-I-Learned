@@ -4,33 +4,43 @@
 
 <br>
 
-## 📌  "Port 3000 is already in use" Error and Solution
-
-<img width="397" alt="port3000isalreadyinuse" src="https://user-images.githubusercontent.com/59908525/145718163-a4bb5b2c-294c-4f0e-824e-96493a767b94.PNG">
+## 📌 Cannot access to mysql database
+Error message
+```
+mysql connection error : Error: ER_DBACCESS_DENIED_ERROR: Access denied for user 'root'@'127.0.0.1' to database 'dog'
+```
 
 <br>
 
-## ⛏️ Solution 1 (Windows)
-1. Retrieve the PID that has the given port
+## ⛏️ Solution
+1. Connect to mysql server
 ```
-netstat -ano
-```
-<img width="522" alt="netstatano" src="https://user-images.githubusercontent.com/59908525/145718165-e6be283d-a02c-4684-bcb2-d1f6afec6b64.PNG">
-
-
-2. Then kill the PID
-```
-tskill typeyourPID
+$ sudo mysql
 ```
 
-## ⛏️ Solution 2 (Windows)
-
-This single command line can kill the running port.
+2. 
 ```
-npx kill-port 3000
+CREATE USER 'root(yourUserName)'@'127.0.01(yourhost#)' IDENTIFIED WITH mysql_native_password BY 'enterYourPasswordHere';
 ```
-<img width="313" alt="해결" src="https://user-images.githubusercontent.com/59908525/145718344-039e4df3-3f55-456c-9e9d-30f9b97e22aa.PNG">
+
+OR
+
+```
+ALTER USER 'root'@'127.0.01' IDENTIFIED WITH mysql_native_password BY 'enterYourPasswordHere';
+```
 
 
-## Reference 
-https://stackoverflow.com/questions/39322089/node-js-port-3000-already-in-use-but-it-actually-isnt
+3. 
+```
+grant all privileges on *.* to 'root'@'127.0.0.1';
+```
+
+4. 
+```
+FLUSH PRIVILEGES;
+```
+
+5. Check if the user is created
+```
+SELECT User, Host, authentication_string FROM mysql.user;
+```
