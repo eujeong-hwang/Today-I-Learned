@@ -21,11 +21,9 @@ $ sudo mysql
 2. 
 ```
 CREATE USER 'root(yourUserName)'@'127.0.01(yourhost#)' IDENTIFIED WITH mysql_native_password BY 'enterYourPasswordHere';
-```
 
-OR
+or
 
-```
 ALTER USER 'root'@'127.0.01' IDENTIFIED WITH mysql_native_password BY 'enterYourPasswordHere';
 ```
 
