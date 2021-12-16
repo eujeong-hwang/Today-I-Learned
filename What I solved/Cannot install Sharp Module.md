@@ -21,6 +21,7 @@ node -v
     <br>
     2. Install the version of node.js you need
     <br>
+    
     ```
     nvm install v14.17.6
     ```
