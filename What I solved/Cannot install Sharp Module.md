@@ -18,10 +18,10 @@ node -v
     ```
     curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
     ```
-    <br>
+    
     2. Install the version of node.js you need
     <br>
-    
+
     ```
     nvm install v14.17.6
     ```
