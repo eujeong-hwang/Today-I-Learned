@@ -11,8 +11,13 @@
 ![InkedregisteredDomain_LI](https://user-images.githubusercontent.com/59908525/146899116-5ae96683-156c-4f8b-adbc-c5a5c4fc01f5.jpg)
 
 
-2. 
+2. AWS Certificate Manager( = ACM)
 
+- Create SSL Certificate using AWS Certificate Manager
+
+3. Elastic Load Balancing ( = ELB)
+
+- Migrate HTTP to HTTPS
 
 <br>
 
