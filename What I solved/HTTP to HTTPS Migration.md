@@ -13,11 +13,13 @@
 
 2. AWS Certificate Manager( = ACM)
 
-- Create SSL Certificate using AWS Certificate Manager
+Create SSL Certificate using AWS Certificate Manager
+
+<br>
 
 3. Elastic Load Balancing ( = ELB)
 
-- Migrate HTTP to HTTPS
+Migrate HTTP to HTTPS
 
 <br>
 
