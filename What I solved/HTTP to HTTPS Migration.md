@@ -29,4 +29,5 @@ https://velog.io/@hyundong_kk/AWS-SSLHTTPS%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0 <
 https://aerocode.net/359?category=799505 <br/>
 https://aws.amazon.com/premiumsupport/knowledge-center/elb-redirect-http-to-https-using-alb/ <br/>
 https://velog.io/@conda/AWSDomain <br/>
-https://wooono.tistory.com/159 
+https://wooono.tistory.com/159 <br/>
+https://dev.classmethod.jp/articles/about-cloudfront-and-route53/
