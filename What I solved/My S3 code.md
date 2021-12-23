@@ -1,3 +1,6 @@
+## Explanation of my S3 code
+
+```
 // AWS SDK는 위의 말처럼 AWS가 만들어놓은 도구들의 집합
 const AWS = require("aws-sdk");
 // 파일 업로드를 위해 사용되는 multipart/form-data 를 다루기 위한 node.js 의 미들웨어
@@ -61,3 +64,5 @@ const storage = multerS3({
 module.exports = multer({
   storage:storage
 });
+
+```
