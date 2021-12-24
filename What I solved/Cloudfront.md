@@ -1,6 +1,3 @@
-https://sleepybird.tistory.com/144?category=925522
-
-
 ## Cloudfront 배포
 https://sleepybird.tistory.com/144?category=925522
 
