@@ -5,6 +5,8 @@ Last week of 2021
 
 1. Daily LeetCode Challenge - Python
 
-2. Study OOP (?)
+2. Study Basic Javascript - Typescript - ES6 
 
 3. Nomad Coder - Start React clone coding  
+
+4. Exercise EVERY DAY !!
