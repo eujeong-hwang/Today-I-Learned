@@ -9,4 +9,9 @@ Last week of 2021
 
 3. Nomad Coder - Start React clone coding  
 
-4. Exercise EVERY DAY !!
+4. Exercise EVERY DAY !! 
+
+
+## DEC 27, 2021
+
+CLOUDFRONT- ENABLED AUTHORIZATION 
