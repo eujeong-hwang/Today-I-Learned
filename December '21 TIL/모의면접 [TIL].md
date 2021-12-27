@@ -17,3 +17,7 @@
     - json 형태
     - dictionary 임-> key, value 있음.
 
+4. coder와 programmer 차이
+
+5. 프로젝트 할 때 힘들었던 점과 해결한 방법 
+
