@@ -1,8 +1,5 @@
 ## How can I configure CloudFront to forward the Authorization header to the origin?
 
-https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-authorization-header/ <br/>
-https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/using-managed-response-headers-policies.html
-
 ## Problem
 
 The origin of my Amazon CloudFront distribution requires that requests include the Authorization header. Because of this, my distribution must forward the Authorization header to the origin.\
@@ -21,3 +18,8 @@ The origin of my Amazon CloudFront distribution requires that requests include t
 3. Choose Edit.
 4. Under Headers, choose Include the following headers. Then, under Add Headers, select Authorization.
 5. Choose Save changes.
+
+
+## Reference
+https://aws.amazon.com/premiumsupport/knowledge-center/cloudfront-authorization-header/ <br/>
+https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/using-managed-response-headers-policies.html
