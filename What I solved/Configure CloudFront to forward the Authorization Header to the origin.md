@@ -2,7 +2,7 @@
 
 ## Problem
 
-The origin of my Amazon CloudFront distribution requires that requests include the Authorization header. Because of this, my distribution must forward the Authorization header to the origin.\
+The origin of my Amazon CloudFront distribution requires that requests include the Authorization header. Because of this, my distribution must forward the Authorization header to the origin.
 
 ## Resolution
 
