@@ -2,7 +2,6 @@
 
 - 모의 면접에 대해 정리
 
-
 1. RDBMS
     - Foreign Key, Primary Key, Unique Key
 
@@ -19,6 +18,8 @@
     - dictionary 임-> key, value 있음.
 
 4. coder와 programmer 차이
+
+- business 로직을 이해하고 코드에 적용하려는 사람
 
 5. 프로젝트 할 때 힘들었던 점과 해결한 방법 
 
