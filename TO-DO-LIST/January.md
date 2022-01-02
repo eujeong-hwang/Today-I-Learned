@@ -3,7 +3,7 @@
 January 2022
 
 1. Leetcode, Programmers
-
+    - Level 1
 
 2. ReactJS로 영화 웹서비스 만들기
     - JSX
