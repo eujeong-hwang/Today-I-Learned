@@ -15,3 +15,6 @@ January 2022
     - Class Components
     - Data Fetching
     - Routing
+
+3. Build my own web page/portfolio
+    - Github? or Notion? 
