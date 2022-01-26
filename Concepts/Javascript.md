@@ -9,8 +9,8 @@ Vanilla JS is a fast, lightweight, cross-platform framework. for building incred
 
 1. Function
 
-<img width="500" alt="function1" src="https://user-images.githubusercontent.com/59908525/151173167-cbe46e92-2938-4a6e-b59d-c095e5bf8b2a.PNG">
+<img width="800" alt="function1" src="https://user-images.githubusercontent.com/59908525/151173167-cbe46e92-2938-4a6e-b59d-c095e5bf8b2a.PNG">
 
 2. Arrow Function
 
-<img width="500" alt="arrowFunction" src="https://user-images.githubusercontent.com/59908525/151173174-3250b28e-76c9-4916-a233-335b50543f27.PNG">
+<img width="800" alt="arrowFunction" src="https://user-images.githubusercontent.com/59908525/151173174-3250b28e-76c9-4916-a233-335b50543f27.PNG">
