@@ -1,7 +1,8 @@
 # Not entering Git Id/PW(Access-token) everytime you push 
 
 
-1. https://kamang-it.tistory.com/entry/TipGit-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-push%ED%95%A0-%EB%95%8C-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EB%AC%BB%EC%A7%80-%EC%95%8A%EA%B2%8C-%ED%95%98%EA%B8%B0
+1. The most helpful blog
+https://kamang-it.tistory.com/entry/TipGit-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-push%ED%95%A0-%EB%95%8C-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EB%AC%BB%EC%A7%80-%EC%95%8A%EA%B2%8C-%ED%95%98%EA%B8%B0
 
 2. https://tomatohj.tistory.com/20?category=873511
 
