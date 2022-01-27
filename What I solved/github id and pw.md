@@ -1,4 +1,4 @@
-## Not entering Git Id/PW(Access-token) everytime you push 
+# Not entering Git Id/PW(Access-token) everytime you push 
 
 1. https://tomatohj.tistory.com/20?category=873511
 
