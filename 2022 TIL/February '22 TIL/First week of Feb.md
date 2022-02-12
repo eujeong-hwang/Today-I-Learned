@@ -19,4 +19,5 @@
     - Feb 10, 2022: https://github.com/eujeong-hwang/Coding_Test_Preparation/tree/main/LeetCode/Feb%2010%2C%202022
     - Feb 11, 2022: https://github.com/eujeong-hwang/Coding_Test_Preparation/tree/main/LeetCode/Feb%2011%2C%202022
     - Feb 12, 2022: 
-        - Review questions that I solved
+        - Review questions that I solved these past few days
+        - Reading "비전공자를 위한 이해할 수 있는 IT 지식" 
