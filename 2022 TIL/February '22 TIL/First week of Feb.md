@@ -1,11 +1,10 @@
-1. ReactJS로 영화 웹서비스 만들기
-    JSX
-    State
-    Props
-    Class Components
-    Data Fetching
-    Routing
-    Build my own web page/portfolio
+1. Movie Webpage using ReactJS
+    - JSX
+    - State
+    - Props
+    - Class Components
+    - Data Fetching
+    - Routing
 
 2. Build my own web page/portfolio
     - Github? or Notion?
