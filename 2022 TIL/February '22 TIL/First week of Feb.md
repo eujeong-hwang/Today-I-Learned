@@ -21,3 +21,7 @@
     - Feb 12, 2022: 
         - Review questions that I solved these past few days
         - Reading "비전공자를 위한 이해할 수 있는 IT 지식" 
+    - Feb 13, 2022:
+        - Review questions that I solved these past few days
+        - Reading "비전공자를 위한 이해할 수 있는 IT 지식" 
+        - Reading "유럽 속 유럽 이야기"
