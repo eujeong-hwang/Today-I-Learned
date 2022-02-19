@@ -25,3 +25,13 @@
         - Review questions that I solved these past few days
         - Reading "비전공자를 위한 이해할 수 있는 IT 지식" 
         - Reading "유럽 속 유럽 이야기"
+    - Feb 14, 2022: 
+        - https://github.com/eujeong-hwang/Coding_Test_Preparation/tree/main/LeetCode/Feb%2014%2C%202022
+    - Feb 15, 2022:
+        - https://github.com/eujeong-hwang/Coding_Test_Preparation/tree/main/LeetCode/Feb%2015%2C%202022
+    - Feb 16, 2022:
+        - https://github.com/eujeong-hwang/Coding_Test_Preparation/tree/main/LeetCode/Feb%2016%2C%202022
+    - Feb 17, 2022:
+        - https://github.com/eujeong-hwang/Coding_Test_Preparation/tree/main/LeetCode/Feb%2017%2C%202022
+    - Feb 18, 2022:
+        - https://github.com/eujeong-hwang/Coding_Test_Preparation/tree/main/LeetCode/Feb%2018%2C%202022
