@@ -35,3 +35,8 @@
         - https://github.com/eujeong-hwang/Coding_Test_Preparation/tree/main/LeetCode/Feb%2017%2C%202022
     - Feb 18, 2022:
         - https://github.com/eujeong-hwang/Coding_Test_Preparation/tree/main/LeetCode/Feb%2018%2C%202022
+    - Feb 20, 2022:
+        - Python OOP, Basic Grammar review
+        - Make plans for the next week ! 
+            - I felt that I need to make weekly plans for me to study or else I might just finish three Leetcode questions and lay in my bed the rest of the day. 
+            - The most urgent thing for me is to finish the react clone coding and learn more about node.js, use ORM for my new project, and make my own portfolio website... etc
