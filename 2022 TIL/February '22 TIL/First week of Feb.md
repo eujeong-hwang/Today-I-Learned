@@ -40,3 +40,6 @@
         - Make plans for the next week ! 
             - I felt that I need to make weekly plans for me to study or else I might just finish three Leetcode questions and lay in my bed the rest of the day. 
             - The most urgent thing for me is to finish the react clone coding and learn more about node.js, use ORM for my new project, and make my own portfolio website... etc
+
+    - Feb 21, 2022:
+        - Python Lecture Chap 3,4,5
