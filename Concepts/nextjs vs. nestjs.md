@@ -1,0 +1,1 @@
+https://stackshare.io/stackups/nestjs-vs-next-js
